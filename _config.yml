@@ -18,7 +18,7 @@ title: Andre Le
 email: leduyanh1011998@gmail.com
 description: "My portfolio"
 baseurl: "" # the optional subpath of your site, e.g. "/blog"
-url: "http://andre-le.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "http://andre-le.github.io/portfolio" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Andre Le
   twitter:
